@@ -1,0 +1,9 @@
+<library path="grasp_rmd_ros2">
+  <class name="grasp_rmd_ros2/GRASPActuatorsHardwareInterface"
+         type="grasp_rmd_ros2::GRASPActuatorsHardwareInterface"
+         base_class_type="hardware_interface::SystemInterface">
+    <description>
+      ros2_control hardware interface for robot arm using RMD-X-series motors
+    </description>
+  </class>
+</library>
